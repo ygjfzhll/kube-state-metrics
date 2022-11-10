@@ -1,1 +1,1 @@
-FROM grafana/grafana:9.0.1
+FROM docker.io/jaegertracing/all-in-one:1.35
